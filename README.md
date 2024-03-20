@@ -7,5 +7,6 @@ This repository contains a collection of optimization algorithms implemented in 
 Open your terminal and install the following packages and libraries:
 
     sudo apt install python3
+    sudo apt install python3-pip
     sudo pip install numpy
     sudo pip install matplotlib
