@@ -11,7 +11,7 @@ Open your terminal and install the following packages and libraries:
     sudo pip install numpy
     sudo pip install matplotlib
 
-# Task 3 - Particle Swarm Optimization with calculated  t_k
+# Task 3 - Gradient Descent Optimization with calculated  t_k
 
 For task you need fork my repository to make changes in python script. You can learn abaout working with forks in [Github Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo "Github Fork").
 
