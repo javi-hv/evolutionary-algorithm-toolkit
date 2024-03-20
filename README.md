@@ -1,11 +1,11 @@
 # evolutionary-algorithm-toolkit
 
-Toolkit to learn coding, development environment with Git and GitHub, and navigation basics with DJI Tello drones.
+This repository contains a collection of optimization algorithms implemented in Python. Currently, it includes implementations of vector gradient descents and a genetic algorithm.
 
 # Setup
 
-Open your terminal and isntall the following packages and libraries:
+Open your terminal and install the following packages and libraries:
 
     sudo apt install python3
     sudo pip install numpy
-    python -m pip install -U matplotlib
+    sudo pip install matplotlib
