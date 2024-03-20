@@ -17,6 +17,8 @@ For task you need fork my repository to make changes in python script. You can l
 
 Once forked, a new repository would appear in your repository section based on my code. Here you can create commits, files, etc., without needing my permissions.
 
+## Note
+
 You don’t need to follow the following sections for the task. Only if you would like to learn how to connect my repository (javi-hv) with your repository (e.g., fabian-repository), you can follow the following section:
 
 Firstly you can review the direction or url of origin 
