@@ -4,6 +4,11 @@ This repository contains a collection of optimization algorithms implemented in 
 
 # Setup
 
+To avoid conflicts, firstly type in your terminal:
+
+    sudo apt update
+    sudo apt upgrade
+
 Open your terminal and install the following packages and libraries:
 
     sudo apt install python3
@@ -21,15 +26,15 @@ Once forked, a new repository would appear in your repository section based on m
 
 You don’t need to follow the following sections for the task. Only if you would like to learn how to connect my repository (javi-hv) with your repository (e.g., fabian-repository), you can follow the following section:
 
-Firstly you can review the direction or url of origin 
+Firstly, you can review the direction or URL of origin.
 
     git remote -v
 
-Now you can update the new remote direction, type and replace <new_url> with your ssh difrection of forked repository in your repositories section (No copy the original repository in javi-hv profile ):
+Now you can update the new remote direction. Type and replace <new_url> with your SSH direction of the forked repository in your repository's section (Do not copy the original repository from the javi-hv profile).):
 
-    git remote add upstream <new_url> # upstream can be any other words  but I recommend you upstream! 
+    git remote add upstream <new_url> # upstream can be any other words, but I recommend you upstream! 
     git pull upstream main 
 
-now we can do changes and then
+Now you can make changes, and then...
 
     git push origin main
