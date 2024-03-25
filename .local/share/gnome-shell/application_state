@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="update-manager.desktop" score="2572" last-seen="1711401590"/>
+    <application id="code_code.desktop" score="3419" last-seen="1711403410"/>
+    <application id="org.gnome.Nautilus.desktop" score="37" last-seen="1711404404"/>
+    <application id="org.gnome.Terminal.desktop" score="81" last-seen="1710959803"/>
+    <application id="firefox_firefox.desktop" score="5883" last-seen="1711404404"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1711383527"/>
+    <application id="com.gexperts.Tilix.desktop" score="1029" last-seen="1711403411"/>
+  </context>
+</application-state>
