@@ -155,6 +155,7 @@ cython_debug/
 # Vscode folder
 .vscode/
 vscode/
+optimization/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
